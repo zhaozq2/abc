@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "更新bundle镜像源，提高速度"
 date:   2024-05-18 00:38:00 +0800
 categories: first post
 ---
